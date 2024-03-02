@@ -1,0 +1,40 @@
+header {
+    align-items: right;
+    background-color: rgb(246, 209, 246);
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Trebuchet MS';
+    padding: 20px 10px 20px 10px;
+    background-image: url("purple.avif");
+}
+
+.banana {
+    list-style-type: none;
+}
+
+
+
+.purple-background {
+    background-color: rgb(246, 209, 246)
+}
+
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+
+.picture {
+    border-radius: 50px;
+}
+
+#purple {
+    background-color: purple;
+    color: white;
+    border-radius: 50px;
+}
